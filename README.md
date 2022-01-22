@@ -1,3 +1,3 @@
 ## Hi there, 
-- 🌱 I’m currently learning coding
-- 🦜 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning how to code
+- 🦜 I would like to learn coding with other learners
